@@ -129,7 +129,7 @@ tests/                 unit tests and golden outputs
 - Memory is never freed: rectangles allocated during splits, searches and
   deletes leak. Fine for a short-lived CLI, not for a library.
 - Input is not validated: a non-numeric answer to the menu loops forever, and
-  `M < 2` is not rejected (the split assumes at least two entries).
+  `M < 1` or `m > M/2` is not rejected.
 - The R-tree has no header of its own; tests include `main.cpp` with its
   `main` renamed.
 - `Tree/` duplicates go to the right subtree; `remove` deletes one copy.
