@@ -6,3 +6,5 @@ R-Tree/rtree
 .DS_Store
 .idea/
 .vscode/
+tests/test_bst
+tests/test_rtree

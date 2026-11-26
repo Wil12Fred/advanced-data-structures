@@ -1,0 +1,122 @@
+M m dim
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+Ingrese punto menor.
+Ingrese punto mayor.
+(1,3,),(2,4,)
+(0,0,),(1,1,)
+(2,2,),(3,3,)
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+imprime: 2 2
+2 en nivel: 3
+(2,6,),(10,10,)
+(0,0,),(9,6,)
+imprime: 2 2
+2 en nivel: 2
+(2,6,),(5,10,)
+(7,7,),(10,10,)
+imprime: 3 3
+3 en nivel: 2
+(0,0,),(3,4,)
+(6,0,),(9,2,)
+(0,5,),(6,6,)
+imprime: 3 3
+3 en nivel: 1
+(3,6,),(4,7,)
+(4,8,),(5,9,)
+(2,9,),(3,10,)
+imprime: 2 2
+2 en nivel: 1
+(9,9,),(10,10,)
+(7,7,),(8,8,)
+imprime: 3 3
+3 en nivel: 1
+(1,3,),(2,4,)
+(0,0,),(1,1,)
+(2,2,),(3,3,)
+imprime: 2 2
+2 en nivel: 1
+(8,1,),(9,2,)
+(6,0,),(7,1,)
+imprime: 2 2
+2 en nivel: 1
+(0,5,),(1,6,)
+(5,5,),(6,6,)
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+Ingrese punto menor.
+Ingrese punto mayor.
+(1,3,),(2,4,)
+(0,0,),(1,1,)
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+imprime: 2 2
+2 en nivel: 3
+(2,6,),(5,10,)
+(0,0,),(9,6,)
+imprime: 1 1
+1 en nivel: 2
+(2,6,),(5,10,)
+imprime: 3 3
+3 en nivel: 2
+(0,0,),(2,4,)
+(8,1,),(9,2,)
+(0,5,),(6,6,)
+imprime: 3 3
+3 en nivel: 1
+(3,6,),(4,7,)
+(4,8,),(5,9,)
+(2,9,),(3,10,)
+imprime: 2 2
+2 en nivel: 1
+(1,3,),(2,4,)
+(0,0,),(1,1,)
+imprime: 1 1
+1 en nivel: 1
+(8,1,),(9,2,)
+imprime: 2 2
+2 en nivel: 1
+(0,5,),(1,6,)
+(5,5,),(6,6,)
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.

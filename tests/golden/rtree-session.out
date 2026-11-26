@@ -1,0 +1,101 @@
+M m dim
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+Ingrese punto menor.
+Ingrese punto mayor.
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+Ingrese punto menor.
+Ingrese punto mayor.
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+Ingrese punto menor.
+Ingrese punto mayor.
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+Ingrese punto menor.
+Ingrese punto mayor.
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+Ingrese punto menor.
+Ingrese punto mayor.
+(0,0,),(1,1,)
+(2,2,),(3,3,)
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+imprime: 2 2
+2 en nivel: 2
+(0,0,),(3,3,)
+(0,5,),(6,6,)
+imprime: 2 2
+2 en nivel: 1
+(0,0,),(1,1,)
+(2,2,),(3,3,)
+imprime: 2 2
+2 en nivel: 1
+(5,5,),(6,6,)
+(0,5,),(1,6,)
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+Ingrese punto menor.
+Ingrese punto mayor.
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
+imprime: 2 2
+2 en nivel: 2
+(0,0,),(1,1,)
+(0,5,),(6,6,)
+imprime: 1 1
+1 en nivel: 1
+(0,0,),(1,1,)
+imprime: 2 2
+2 en nivel: 1
+(5,5,),(6,6,)
+(0,5,),(1,6,)
+0. Insertar de archivo.
+1. Insertar manualmente.
+2. Buscar rango.
+3. Eliminar elemento manual.
+4. Imprimir.
+5. Eliminar de archivo.
+-1. Salir.
