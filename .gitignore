@@ -1,0 +1,10 @@
+tree/bst
+r-tree/rtree
+Tree/bst
+R-Tree/rtree
+*.o
+*.exe
+*.dSYM/
+.DS_Store
+.idea/
+.vscode/
