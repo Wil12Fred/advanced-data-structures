@@ -1,4 +1,4 @@
-# EstructurasDeDatosAvanzadas
+# advanced-data-structures
 
 Assignments for the *Advanced Data Structures* course at UCSP (Universidad
 Católica San Pablo, Peru). Menus, prompts and identifiers are in Spanish.
