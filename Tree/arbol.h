@@ -32,7 +32,7 @@ class arbol{
     if(find(dato,i)){
       if(!((*i)->N[1])){
         if((*i)->N[0])
-          *i=(*i)->N[1];
+          *i=(*i)->N[0];
         else
           *i=NULL;
       } else {
@@ -45,6 +45,8 @@ class arbol{
   }
   void convertToList(){
     nodo<T>**i =&root;
+    if(!root)
+      return;
     while ((*i)->N[0] || (*i)->N[1]){
       nodo<T>** iMin=i;
       rmin(iMin);

@@ -1,7 +1,7 @@
 template<class T>
 class nodo{
   public:
-    int dato;
+    T dato;
     int altura;
     nodo<T>* N[2];
     nodo(T d){
